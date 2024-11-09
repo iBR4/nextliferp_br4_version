@@ -39,3 +39,4 @@ Unless otherwise specified, all source code hosted in this repository is license
 # Comunidad Personal
 
 > Discord: https://discord.gg/UKVMJnF76J
+> Si deseas una version o recursos premium puedes contactarme al privado (discord personal dentro de la comunidad).
