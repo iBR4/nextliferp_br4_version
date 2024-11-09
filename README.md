@@ -31,3 +31,7 @@ Unless otherwise specified, all source code hosted in this repository is license
 - Huds Armas (Primario/secundario)
 - Opciones Login Configurables
 - Empleos Bien Pagados.
+
+# Antigua Version
+
+> Puedes obtenerla aquí: https://github.com/iBR4/nextliferp_test
