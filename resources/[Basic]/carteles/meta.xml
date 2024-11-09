@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+	<info author="Thomii" description="script" type="script" version="1.1.0"  autostart="true"/>
+     <script src="script.lua" type="client" />
+
+     <file src="newstuff_sfn.txd" />
+
+
+
+
+</meta>

@@ -1,0 +1,3 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (DYN_MESH_2) (1)" radius="45.724674" interior="-1" model="1412" lodModel="0" posX="2414.3610839844" posY="-2144.9279785156" posZ="13.309160232544" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

@@ -1,0 +1,7 @@
+<meta>
+	<info author="Plantjen" name="rrtaxi" version="0.1.1" type="misc" />
+	<script src="rrtaxi_server.lua" />
+	
+	<config src="XML/ACL.xml" />
+	<config src="XML/help.xml" type="client"/>
+</meta>

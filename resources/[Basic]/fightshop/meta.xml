@@ -1,0 +1,8 @@
+<meta>
+    <info version="1.0" type="script"/>
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+    <file src="gfx/icon1.png"/>
+    <file src="gfx/font.ttf"/>
+    <file src="gfx/font2.ttf"/>
+</meta>

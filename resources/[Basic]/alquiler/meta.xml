@@ -1,0 +1,6 @@
+<meta>
+	<info author="Thomii" name="Alquiler de Vehiculos" version="1.0" type="script" autostart="true"/>
+	
+    <script src="s_Alquiler.lua" type="server"/>
+    <script src="c_Alquiler.lua" type="client"/>
+</meta>

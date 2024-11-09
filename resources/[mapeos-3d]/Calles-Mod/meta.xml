@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<meta>
+
+    <script src="script.lua" type="client" cache="false"/>
+
+    
+
+	<file src="6116.dff" />
+
+	<file src="6116.col" />
+
+	
+
+	<file src="6118.dff" />
+
+	<file src="6118.col" />
+
+	
+
+
+
+	
+
+	<file src="6127.dff" />
+
+	<file src="6127.col" />
+
+	
+
+	<file src="6309.dff" />
+
+	<file src="6309.col" />
+
+	
+
+	<file src="6310.dff" />
+
+	<file src="6310.col" />
+
+	
+
+	<file src="chemgrnd_las2.dff" />
+
+	<file src="chemgrnd_las2.col" />
+
+	
+
+	<file src="airpurt2_las.dff" />
+
+	<file src="airpurt2_las.col" />
+
+	
+
+	<file src="blockalphalae_large.dff" />
+
+	<file src="blockalpha_large.txd" />
+
+	
+
+	<file src="BTOLAND1ct_LAS.dff" />
+
+	<file src="BTOLAND1ct_LAS.col" />
+
+	
+
+	<file src="chemplant2_las2.dff" />
+
+	<file src="chemplant2_las2.col" />
+
+	
+
+	<file src="cs_landbit_49_platin.dff" />
+
+	<file src="cs_landbit_49_platin.col" />
+
+	<file src="cs_town.txd" />
+
+	
+
+	<file src="ctyhllblk2land_LAn.dff" />
+
+	<file src="ctyhllblk2land_LAn.col" />
+
+	
+
+	<file src="dockfencew_las2.dff" />
+
+	<file src="hubst3_alpha.dff" />
+
+	
+
+	<file src="LAcityped1_LAs.dff" />
+
+	<file src="LAcityped1_LAs.col" />
+
+
+
+	<file src="laealpha1_large.dff" />
+
+	<file src="laealpha1_large.col" />
+
+	<file src="laealpha.txd" />
+
+	
+
+	<file src="laealpha2_large.dff" />
+
+	<file src="laealpha2_large.col" />
+
+	
+
+	<file src="laeidleproj02_large.dff" />
+
+	<file src="laeidleproj02_large.col" />
+
+	
+
+	<file src="laeidlewood02_large.dff" />
+
+	<file src="laeidlewood02_large.col" />
+
+	<file src="laeidlewood02_large.txd" />
+
+	
+
+	<file src="laejeffers10_aplanado.dff" />
+
+	<file src="laejeffers10_aplanado.col" />
+
+	
+
+	<file src="laelasjmscubit_large.dff" />
+
+	<file src="laelasjmscubit_large.col" />
+
+	<file src="laelasjmscubit_large.txd" />
+
+	
+
+	<file src="laeroad36_large.dff" />
+
+	<file src="laeroad36_large.col" />
+
+	<file src="laeroad36_large.txd" />
+
+	
+
+	<file src="laeroad39_large.dff" />
+
+	<file src="laeroad39_large.col" />
+
+	
+
+	<file src="NWCSTRD3_las2.dff" />
+
+	<file src="NWCSTRD3_las2.col" />
+
+	
+
+	<file src="plot1_SFS_open.dff" />
+
+	<file src="plot1_SFS_open.col" />
+
+	
+
+	<file src="Roads24_LAn.dff" />
+
+	<file src="Roads24_LAn.col" />
+
+	
+
+	<file src="Roadsbx_las2.dff" />
+
+	<file src="Roadsbx_las2.col" />
+
+	
+
+	<file src="sanpdmdock3_las2.dff" />
+
+	<file src="sanpdmdock3_las2.col" />
+
+</meta>

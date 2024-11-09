@@ -1,0 +1,82 @@
+<meta>
+	<info author="BR4" version="1.0.2" name="Configuracion-NL" type="RP" />
+
+	<oop>true</oop>
+
+    <script src="Mconfig_c.lua" type="client" cache="false" />
+	<script src="Mconfig_s.lua" type="server" />
+
+	<script src="Hud_Config_1.lua" type="client" cache="false" />
+	<script src="Hud_Config_2.lua" type="client" cache="false" />
+
+	<!-- Primario  -->
+	<script src="Hud_Vehiculo_1.lua" type="client" cache="false" />
+	<!-- Secundarios -->
+	<script src="Hud_Vehiculo_2.lua" type="client" cache="false" />
+	
+	<file src="files/extra/b1.png" />
+	<file src="files/extra/b2.png" />
+
+	<file src="files/img/star1.png" />
+	<file src="files/img/star2.png" />
+	<file src="files/img/+.png" />
+	<file src="files/img/bar.png" />
+
+	<file src="files/img/0.png" />
+	<file src="files/img/1.png" />
+	<file src="files/img/16.png" />
+	<file src="files/img/4.png" />
+	<file src="files/img/5.png" />
+	<file src="files/img/9.png" />
+	<file src="files/img/22.png" />
+	<file src="files/img/23.png" />
+	<file src="files/img/24.png" />
+	<file src="files/img/25.png" />
+	<file src="files/img/26.png" />
+	<file src="files/img/27.png" />
+	<file src="files/img/28.png" />
+	<file src="files/img/29.png" />
+	<file src="files/img/30.png" />
+	<file src="files/img/31.png" />
+	<file src="files/img/32.png" />
+	<file src="files/img/33.png" />
+	<file src="files/img/34.png" />
+	<file src="files/img/35.png" />
+	<file src="files/img/36.png" />
+	<file src="files/img/37.png" />
+	<file src="files/img/38.png" />
+	<file src="files/img/39.png" />
+	<file src="files/img/40.png" />
+	<file src="files/img/41.png" />
+	<file src="files/img/42.png" />
+	<file src="files/img/43.png" />
+	<file src="files/img/44.png" />
+	<file src="files/img/45.png" />
+	<file src="files/img/46.png" />
+	<file src="files/img/2.png" />
+	<file src="files/img/3.png" />
+	<file src="files/img/6.png" />
+	<file src="files/img/7.png" />
+	<file src="files/img/8.png" />
+	<file src="files/img/10.png" />
+	<file src="files/img/11.png" />
+	<file src="files/img/12.png" />
+	<file src="files/img/14.png" />
+	<file src="files/img/15.png" />
+	<file src="files/img/17.png" />
+	<file src="files/img/18.png" />
+	
+	<file src="files/hudveh/panel.png"/>
+	<file src="files/hudveh/ibre.png"/>
+	<file src="files/hudveh/engine.png"/>
+	<file src="files/hudveh/handbrake.png"/>
+	<file src="files/hudveh/light.png"/>
+	<file src="files/hudveh/lock.png"/>
+	<file src="files/hudveh/red.png"/>
+	<file src="files/hudveh/font.otf"/>
+
+	<export function="recoverData" type="client" />
+	<export function="recoverSong" type="client" />
+	<export function="isCustomSpeedometerEnabled" type="client" />
+	
+</meta>

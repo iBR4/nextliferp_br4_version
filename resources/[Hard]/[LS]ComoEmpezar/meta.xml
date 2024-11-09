@@ -1,0 +1,10 @@
+<meta>
+	 <info author="Thomii" version="1.0" description="MenuAyuda" name="Comoempezar" type="script" autostart="true"/>
+
+	<config src="serverrules.xml" type="client" />
+	<config src="overview.xml" type="client" />
+	<config src="server.xml" type="client" />
+	<script src="c_Anuncio.lua" type="client"/>
+	<script src="c_help.lua" type="client"/>
+	
+</meta>

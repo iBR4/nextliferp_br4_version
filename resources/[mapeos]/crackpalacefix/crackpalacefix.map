@@ -1,0 +1,3 @@
+<map edf:definitions="editor_main">
+    <object id="object (Carter_GROUND) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="17946" scale="1" doublesided="false" collisions="true" posX="2533.7" posY="-1290.6" posZ="36.9" rotX="0" rotY="0" rotZ="0.25"></object>
+</map>

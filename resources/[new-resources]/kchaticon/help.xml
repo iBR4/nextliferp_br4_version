@@ -1,0 +1,15 @@
+<help popup="no">Chat Icon (kchaticon by Khepra)
+This script will let others see when you're typing in 'T' chatbox or F8.
+You will have a balloon icon above your head aslong you're busy typing..
+
+/toggleicon
+You can toggle your own chat icon on / off with /toggleicon
+Keeping in mind that this will only affect you, as others will still be able to see your typing icon.
+ 
+/resizeicon
+You can resize all icons with /resizeicon [new%]
+For example, /resizeicon 50 will make all icons 50% of normal size.
+ 
+/seticonvis
+You can edit the transparency of all icons with /seticonalpha [new%]
+For example, /seticonalpha 75 will make all chat icons 75% visible</help>

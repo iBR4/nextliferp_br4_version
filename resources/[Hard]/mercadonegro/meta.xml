@@ -1,0 +1,6 @@
+<meta>
+	<info author="Thomii" name="Mercado Negro" version="2.0" type="script" autostart="true"/>
+	<script src="s_server.lua" type="server" />
+	<script src="s_client.lua" type="client" cache="false"/>
+	<oop>true</oop>
+</meta>

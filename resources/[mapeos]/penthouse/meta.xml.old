@@ -1,0 +1,4 @@
+<meta>
+	<info author="Arlixx"	name="Luxury Penthouse" version="1.0.0" type="map"/>
+	<script src="server.luac" type="server" />
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+	<info author="kendry" name="Ocultar Todo" version="1.0" type="script"/>
+    <script src="clean.lua" type="client" cache="false"/>	<file src="music.wav"/>
+</meta>

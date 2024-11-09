@@ -1,0 +1,8 @@
+<meta>
+
+<info version="1.0.0" name="emergencias" type="script" author="Thomii" autostart="true"/>
+
+<script type="server" src="server.lua" cache="false"/>
+<script type="client" src="client.lua" cache="false"/>
+
+</meta>

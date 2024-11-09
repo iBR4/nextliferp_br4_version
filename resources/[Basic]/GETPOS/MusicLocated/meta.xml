@@ -1,0 +1,5 @@
+<meta>
+    <info author="AndrixX'" type="script" name=".s" description=".sda" version="1.0"/>
+    <script src="musiclocated.lua" type="client"/>
+    <file src="music.mp3"/>
+</meta>

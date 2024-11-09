@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <script src="script.lua" type="client" />
+     <file src="cos_liquorstore.txd" />
+     <file src="cunte_gas01.txd" />
+     <file src="cunte_lik.txd" />
+     <file src="firehouse_sfse.txd" />
+     <file src="gen_petrol.txd" />
+     <file src="newstuff_sfn.txd" />
+     <file src="stop.txd" />
+     <file src="stop.dff" />
+     <file src="stop.col" />
+
+
+
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+
+	<info author="ElBromas" autostart="true" />
+	<script src="server.lua" type="server"/>
+	<script src="save.lua" type="server"/>
+	<script src="cliente.lua" type="client" cache="false" />
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,107 @@
+<meta>
+
+    <!-- Archivos -->
+
+    <script src="mod_list.lua" type="shared" cache="false"/>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server" cache="false"/>
+
+
+   <export type="shared" function="isCustomModel"/>
+   <export type="shared" function="createVehicle"/>
+   <export type="shared" function="createPed"/>
+   <export type="shared" function="getVehicleNameFromModel"/>
+   <export type="shared" function="getVehicleName"/>
+
+    <!-- Vehiculos -->
+
+    <file src="models/237032.dff"/>
+    <file src="models/237032.txd"/>
+    <file src="models/20001.dff"/>
+    <file src="models/20001.txd"/>
+    <file src="models/20002.dff"/>
+    <file src="models/20002.txd"/>
+    <file src="models/20003.dff"/>
+    <file src="models/20003.txd"/>
+    <file src="models/20004.dff"/>
+    <file src="models/20004.txd"/>
+    <file src="models/20005.dff"/>
+    <file src="models/20005.txd"/>
+    <file src="models/20006.dff"/>
+    <file src="models/20006.txd"/>
+    <file src="models/20007.dff"/>
+    <file src="models/20007.txd"/>
+    <file src="models/20008.dff"/>
+    <file src="models/20008.txd"/>
+    <file src="models/20009.dff"/>
+    <file src="models/20009.txd"/>
+    <file src="models/20010.dff"/>
+    <file src="models/20010.txd"/>
+    <file src="models/20011.dff"/>
+    <file src="models/20011.txd"/>
+    <file src="models/20012.dff"/>
+    <file src="models/20012.txd"/>
+    <file src="models/20013.dff"/>
+    <file src="models/20013.txd"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Skins nuevas -->
+
+    <file src="models/10001.dff"/>
+    <file src="models/10001.txd"/>
+    <file src="models/10002.dff"/>
+    <file src="models/10002.txd"/>
+    <file src="models/10003.dff"/>
+    <file src="models/10003.txd"/>
+    <file src="models/10004.dff"/>
+    <file src="models/10004.txd"/>
+    <file src="models/10005.dff"/>
+    <file src="models/10005.txd"/>
+    <file src="models/10006.dff"/>
+    <file src="models/10006.txd"/>
+    <file src="models/10007.dff"/>
+    <file src="models/10007.txd"/>
+    <file src="models/10008.dff"/>
+    <file src="models/10008.txd"/>
+    <file src="models/10009.dff"/>
+    <file src="models/10009.txd"/>
+    <file src="models/10010.dff"/>
+    <file src="models/10010.txd"/>
+    <file src="models/10011.dff"/>
+    <file src="models/10011.txd"/>
+    <file src="models/10012.dff"/>
+    <file src="models/10012.txd"/>
+    <file src="models/10013.dff"/>
+    <file src="models/10013.txd"/>
+    <file src="models/10014.dff"/>
+    <file src="models/10014.txd"/>
+    <file src="models/10015.dff"/>
+    <file src="models/10015.txd"/>
+    <file src="models/10016.dff"/>
+    <file src="models/10016.txd"/>
+    <file src="models/10017.dff"/>
+    <file src="models/10017.txd"/>
+    <file src="models/10018.dff"/>
+    <file src="models/10018.txd"/>
+    <file src="models/10019.dff"/>
+    <file src="models/10019.txd"/>
+    <file src="models/10020.dff"/>
+    <file src="models/10020.txd"/>
+    <file src="models/10021.dff"/>
+    <file src="models/10021.txd"/>
+
+
+    
+
+</meta>

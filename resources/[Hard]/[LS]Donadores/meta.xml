@@ -1,0 +1,25 @@
+<meta>
+
+    <info author="Thomii" name="Donadores" version="1.0a" autostart="true"/>
+
+    <script src="admin_c.lua" type="client" cache="false" />
+
+    <script src="admin_s.lua" type="server" cache="false" />
+
+	<export function="isPlayerVIP" type="server" />
+
+    <export function="addVipPlayer" type="server" />
+
+    
+    <aclrequest>
+
+        <right name="function.aclCreateGroup" access="true" />
+
+        <right name="function.aclGroupRemoveObject" access="true" />
+
+        <right name="function.aclGroupAddObject" access="true" />
+
+    </aclrequest>
+
+</meta>
+

@@ -1,0 +1,8 @@
+<meta>
+    <info author="JoaGamo" type="misc" name="Parlantes Script" version="1.0.0"/>
+    <script src="speaker_s.lua" type="server" />
+    <script src="speaker_c.lua" type="client" />
+	<file src="radio.ttf" />
+    
+    <script src="speakerEvent_s.lua" type="server" />
+</meta>

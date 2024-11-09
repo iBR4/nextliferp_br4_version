@@ -1,0 +1,7 @@
+<meta>
+    <info author="Tu Nombre" version="1.0" description="Panel de compra de monedas en MTA San Andreas" />
+
+    <script src="client.lua" type="client" />
+    <file src="imagenes/coins.png" />
+    
+</meta>

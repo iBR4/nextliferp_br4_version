@@ -1,0 +1,10 @@
+<map edf:definitions="editor_main">
+    <object id="object (fencesmallb) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="970" scale="1" doublesided="false" collisions="true" posX="1773.3" posY="-1810.6" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="970" scale="1" doublesided="false" collisions="true" posX="1777" posY="-1810.6" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="970" scale="1" doublesided="false" collisions="true" posX="1778.7" posY="-1810.6" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (4)" breakable="true" interior="0" alpha="255" dimension="0" model="970" scale="1" doublesided="false" collisions="true" posX="1782.3" posY="-1810.6" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bollardlight) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1215" scale="1" doublesided="false" collisions="true" frozen="true" posX="1773.3" posY="-1812.8" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1215" scale="1" doublesided="false" collisions="true" frozen="true" posX="1777" posY="-1812.8" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="1215" scale="1" doublesided="false" collisions="true" frozen="true" posX="1778.7" posY="-1812.8" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (4)" breakable="true" interior="0" alpha="255" dimension="0" model="1215" scale="1" doublesided="false" collisions="true" frozen="true" posX="1782.3" posY="-1812.8" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+</map>

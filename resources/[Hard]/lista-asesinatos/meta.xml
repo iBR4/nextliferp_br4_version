@@ -1,0 +1,18 @@
+<meta>
+    <!-- Archivo: meta.xml -->
+
+    <!-- Información básica del recurso -->
+    <info name="Lista de Asesinatos" version="1.0" author="Tu Nombre" type="script" />
+
+    <!-- Archivos del recurso -->
+    <script src="lista_asesinatos.lua" type="server"  cache="false"/> 
+    <script src="lista_asesinatosC.lua" type="client"  cache="false"/> 
+
+
+
+    <!-- Permisos -->
+    <aclrequest>
+        <acl name="command.verasesinatos" default="false" access="true" />
+    </aclrequest>
+
+</meta>

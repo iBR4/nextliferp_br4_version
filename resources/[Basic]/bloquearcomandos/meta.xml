@@ -1,0 +1,6 @@
+
+<meta>
+<info author="Thomii" name="Bloquear comandos" version="1.5" type="script" autostart="true"/>
+     <script src="scripts.lua" type="server" cache="false"/>
+	 
+</meta>

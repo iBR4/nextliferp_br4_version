@@ -1,0 +1,7 @@
+<meta>
+
+<script src="mesero_C.lua" type="client" cache="false" />
+<script src="mesero_S.lua" type="server"/>
+<script src="table_mesero.lua" type="shared" cache="false"/>
+<oop>true</oop>
+</meta>

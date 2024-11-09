@@ -1,0 +1,6 @@
+<meta>
+    <script src="velocimetro.lua" type="client"/>
+
+    <oop>true</oop>
+
+</meta>

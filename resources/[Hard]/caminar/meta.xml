@@ -1,0 +1,6 @@
+<meta>
+	<info author="Nassan#" version="1.0" name="Systema Estilos de caminar" type="script"/>
+	
+	<script src="caminar.lua" type="client"/>
+
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+	<info type="script" name="GET POS BY FASTRIX" author="EDIT BY FASTRIX" description="CONSEGIR POSICION" version="1.0" />
+
+	<script type="client" src="client.lua" />
+</meta>

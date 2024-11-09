@@ -1,0 +1,6 @@
+﻿<meta>
+	<info author="bromas" type="script" name="Anti-lag" version="1.0" />
+	<script src="toggle.lua" type="client" cache="false" />	
+	<file src="texture/invisible.png" />
+	<file src="texture/shader.fx" />
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+    <info author="RomanDev" name="Discord Rich Presence" version="1.0.0" type="script" />
+    <oop>true</oop>
+
+    <script src="presence.lua" type="client" cache="false" />
+    <script src="presence-s.lua" type="server" />
+</meta>

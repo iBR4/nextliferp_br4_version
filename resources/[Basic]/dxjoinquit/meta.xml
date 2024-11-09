@@ -1,0 +1,6 @@
+<meta>
+	<info name="Crystal Gaming DD" author="Tofask" description="JoinquitSystem" version="1.5.2" type="script" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" />
+	<export function="showText" type="shared" />
+</meta>

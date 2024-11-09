@@ -1,0 +1,12 @@
+<meta>
+<oop>true</oop>
+
+<info author="Khepra" version="1.5" type="script" />
+<include resource="helpmanager" />
+
+<script src="kchaticon.lua" type="client" />
+<config src="help.xml" type="client" />
+
+<file src="chat.png" />
+<file src="chat2.png" />
+</meta>

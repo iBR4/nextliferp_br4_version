@@ -1,0 +1,10 @@
+<meta>
+    <info author="UntiedTR" version="1.0" name="Panel de Actualización" />
+    <script src="update.lua" type="client" cache="false" />
+    <script src="metaevents.lua" type="client" cache="false" />
+    <script src="cursor.lua" type="client" cache="false" />
+    <client src="meta.xml" />
+    <exports>
+        <export function="showCursor" type="client" />
+    </exports>
+</meta>

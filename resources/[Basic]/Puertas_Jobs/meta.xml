@@ -1,0 +1,8 @@
+<meta>
+    <info author="ClawSuit and Sticmy" name="Puertas" type="script" version="1.0" autostart="true"/>
+    <oop>true</oop>
+    
+    <script src="servidor.lua" type="server" />
+	<script src="puertas1.lua" />
+    
+</meta>

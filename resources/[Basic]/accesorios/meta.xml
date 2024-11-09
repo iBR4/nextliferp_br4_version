@@ -1,0 +1,69 @@
+<meta>
+<info author="Thomii" type="script" version="1.1.0" autostart="true"/>
+	<script src="config.lua" type="client"/>
+	<script src="carga.lua" type="client"/>
+	
+	<script src="toys.lua" type="server"/>
+	
+	<script src="listatoys.lua" type="shared"/>
+	
+	<export function="isValueToy"/>
+	<export function="getListaToys"/>
+	<export function="getToyPlayerPosition"/>
+	
+	<file src="transparente.png"/>
+	<file src="texreplace.fx"/>
+	
+	<file src="toys/gorracadete.txd"/>
+	<file src="toys/gorracadete.dff"/>
+	
+	<file src="toys/chaleco_M.txd"/>
+	<file src="toys/chaleco_M.dff"/>	
+
+	<file src="toys/mascara.txd"/>
+	<file src="toys/mascara.dff"/>
+	
+	<file src="toys/bowler.txd"/>
+	<file src="toys/bowler.dff"/>	
+
+	<file src="toys/gafasvista.txd"/>
+	<file src="toys/gafasvista.dff"/>	
+			
+	<file src="toys/reflectante.txd"/>
+	<file src="toys/reflectante.dff"/>	
+	
+
+	
+	<file src="toys/mochila.txd"/>
+	<file src="toys/mochila.dff"/>
+	
+	<file src="toys/chaleco.txd"/>
+	<file src="toys/chaleco.dff"/>
+	
+	<file src="toys/gorrasheriff.txd"/>
+	<file src="toys/gorrasheriff.dff"/>
+	
+	<file src="toys/gorracamionero.txd"/>
+	<file src="toys/gorracamionero.dff"/>
+	
+	<file src="toys/cascointegral.txd"/>
+	<file src="toys/cascointegral.dff"/>
+	
+	<file src="toys/bandanablanca.txd"/>
+	<file src="toys/bandanablanca.dff"/>
+	
+	<file src="toys/gasmask.txd"/>
+	<file src="toys/gasmask.dff"/>
+	
+	<file src="toys/cascomilitar.txd"/>
+	<file src="toys/cascomilitar.dff"/>
+	
+	<file src="toys/gafasaviador.txd"/>
+	<file src="toys/gafasaviador.dff"/>
+	
+	<file src="toys/gafaspaco.txd"/>
+	<file src="toys/gafaspaco.dff"/>
+	
+
+	
+</meta>

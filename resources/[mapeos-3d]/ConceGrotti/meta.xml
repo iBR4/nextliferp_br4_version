@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+    <script src="script.lua" type="client" cache="false"/>
+    
+
+
+	
+	<file src="sunset02_law2.txd" />
+	
+	<file src="sunset01_law2.dff" />
+
+	
+	<file src="sunset04tr_law2.dff" />
+	<file src="law2_2.col" />
+
+
+</meta>

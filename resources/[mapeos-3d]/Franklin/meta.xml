@@ -1,0 +1,15 @@
+<meta>  
+<info author='Sr.Detp' description='' version='1.0' type='script' />  
+<script src='client.lua' type='client' />  
+<file src='1.txd' type='client' />  
+<file src='1.dff' type='client' />  
+<file src='1.col' type='client' />
+<script src="portao.lua" type="server" />
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+	    <script src="Marker.lua" type="server" />
+    <script src="Marker2.lua" type="server" />
+    <script src="Marker3.lua" type="server" />
+    <info type="map" version="1.0.0"></info>
+    <map src="Mapa-mansao-22.map" dimension="0"></map>
+</meta>

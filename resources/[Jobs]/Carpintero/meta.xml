@@ -1,0 +1,19 @@
+<meta>
+
+	<info author="Bromas" name="Trabajo de taxista" description="Trabajo de taxista" type="script" version="1.0" autostart="true"/>
+
+	
+
+	<script src="table_carp.lua" type="shared" cache="false"/>
+
+	<script src="save.lua" type="server"/>
+
+	<script src="carp_server.lua" type="server"/>
+
+	<script src="carp_cliente.lua" type="client" cache="false"/>
+
+
+
+	<oop>true</oop>
+
+</meta>

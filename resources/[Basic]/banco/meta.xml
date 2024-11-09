@@ -1,0 +1,9 @@
+<meta>
+	<info author="Thomii" name="Sistema de Bancos" version="1.5" type="script" autostart="true"/>
+
+    <script src="server.lua" type="server"></script>
+	<script src="client.lua" type="client"></script>
+	<script src="save.lua" type="server"/>
+    <file src="image.png"></file>
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,9 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" />
+	<script src="marcadores.lua" type="shared" cache="false"/>
+    
+	<file src="gps.png"/>
+	
+	<oop>true</oop>
+</meta>

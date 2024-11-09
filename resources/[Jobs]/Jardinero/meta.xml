@@ -1,0 +1,21 @@
+<meta>
+
+	<info author="Bromas" name="Trabajo de jardinero" description="Trabajo de jardinero" type="script" version="1.0" autostart="true"/>
+
+	
+
+	<script src="table_jardinero.lua" type="shared" cache="false"/>
+
+	<script src="save.lua" type="server"/>
+
+	<script src="jardinero_server.lua" type="server"/>
+
+	<script src="table_pos_mision.lua" type="client" cache="false"/>
+
+	<script src="jardinero_cliente.lua" type="client" cache="false"/>
+
+
+
+	<oop>true</oop>
+
+</meta>

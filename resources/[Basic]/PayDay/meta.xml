@@ -1,0 +1,15 @@
+<meta>
+	<info author="Sticmy and ClawSuit" name="" version="1.0" type="script" autostart="true"/>
+
+	<script src="server.lua" type="server"/>
+	<script src="save.lua" type="server"/>
+
+
+	<file src="lvlup.mp3" />
+	
+	<file src="ticket.mp3" />
+	
+	<script src="binds_c.lua" type="client"/>
+
+	<oop>true</oop>
+</meta>

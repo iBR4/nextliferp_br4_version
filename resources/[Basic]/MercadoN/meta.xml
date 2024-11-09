@@ -1,0 +1,6 @@
+<meta>
+	<info author="Bronimo" version="1.0" />
+	<script src="server.lua" type="server" />
+	<script src="cliente.lua" type="client" cache="false" />
+	<oop>true</oop>
+</meta>

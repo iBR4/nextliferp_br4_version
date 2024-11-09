@@ -1,0 +1,45 @@
+<meta>
+	<info author="Thomii" name="Sistema de Facciones" version="1.5" type="script" autostart="true"/>
+
+	<script src="faccion_cliente.lua" type="client" cache="false"/>
+	<script src="elevadorFD.lua" type="client" cache="false"/>
+	<script src="faccion_server.lua" type="server" cache="false"/>
+	<script src="blur.lua" type="server"/>
+	<script src="garage.lua" type="server"/>
+
+	<script src="garage_medico.lua" type="server" cache="false"/>
+	<script src="garage_policia.lua" type="server" cache="false"/>
+	<script src="faccion_medico.lua" type="server" cache="false"/>
+	<script src="faccion_policia.lua" type="server" cache="false"/>
+	<script src="faccion_mecanico.lua" type="server" cache="false"/>
+	<script src="division_lspd.lua" type="server" cache="false"/>
+	<script src="faccion_aseguradora.lua" type="server" cache="false"/>
+
+	
+	<export function="isPlayerExistsArresto" type="server"/>
+	<export function="setPlayerJailPolice" type="server"/>
+	<export function="getTaserCables" type="server"/>
+	<export function="getFactionPlayer" type="server"/>
+
+	
+
+	<!--<export function="dxDrawTextWorldStatic" type="client"/>
+
+	file src="files/dee5cc340eb4d.mp3"/-->
+	
+	<file src="files/Fire.mp3"/>
+	<file src="files/taser.dff"/>
+	<file src="files/taser.txd"/>
+	<file src="files/panel.png"/>
+	<script src="scriptS.lua" type="server"/>
+	<file src="files/estrella.png"/>
+	
+	<file src="sirena.txd"/>
+	<file src="sirena.dff"/>
+	<file src="herido10.wav"/>
+	<script src="binds_c.lua" type="client" cache="false"/>
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="s.lua" type="server" cache="false"/>
+
+	<oop>true</oop>
+</meta>

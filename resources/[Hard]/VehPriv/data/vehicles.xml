@@ -1,0 +1,118 @@
+<vehicles>
+	<group id="2portes" type="CamionetasC">
+		<vehicle id="605" price="10000" malee="5" />
+		<vehicle id="478" price="12000" malee="5" />
+		<vehicle id="600" price="15000" malee="5" />
+		<vehicle id="543" price="20000" malee="5" />
+		<vehicle id="422" price="22000" malee="5" />
+		<vehicle id="422" price="22000" malee="5" />
+		<vehicle id="458" price="25000" malee="5" />
+		<vehicle id="400" price="32000" malee="5" />
+		<vehicle id="561" price="37000" malee="5" />
+		<vehicle id="489" price="40000" malee="8" />
+		<vehicle id="482" price="70000" malee="8" />
+		<vehicle id="20007" price="70000" malee="8" />
+		<vehicle id="20008" price="70000" malee="8" />
+		<vehicle id="495" price="90000" malee="6" />
+		<vehicle id="579" price="110000" malee="10" />
+	</group>
+		<group id="2portes" type="Mont">
+		<vehicle id="531" price="20000" malee="4" />
+		<vehicle id="568" price="100000" malee="2" />
+		<vehicle id="424" price="150000" malee="4" />
+		<vehicle id="434" price="500000" malee="4" />
+		<vehicle id="444" price="1000000" malee="8" />
+	</group>
+
+	<group id="bikes" type="Bike">
+		<vehicle id="509" price="500" malee="0"  />
+		<vehicle id="481" price="800" malee="0" />
+		<vehicle id="510" price="1000" malee="0" />
+		<vehicle id="462" price="4000" malee="1" />
+		<vehicle id="586" price="8000" malee="1" />
+		<vehicle id="471" price="20000" malee="1" />
+		<vehicle id="581" price="25000" malee="1" />
+		<vehicle id="461" price="28000" malee="1" />
+		<vehicle id="463" price="35000" malee="1" />
+		<vehicle id="468" price="44000" malee="1" />
+		<vehicle id="521" price="55000" malee="1" />
+		<vehicle id="522" price="500000" malee="1"  />
+	</group>         
+	<group id="Street Racers" type="CochesPobres">
+		<vehicle id="410" price="8000" malee="2" />
+		<vehicle id="474" price="10000" malee="4" />
+		<vehicle id="436" price="11200" malee="4" />
+		<vehicle id="542" price="11700" malee="4" />
+		<vehicle id="549" price="13000" malee="5" />
+		<vehicle id="401" price="14500" malee="5" />
+		<vehicle id="436" price="11200" malee="5" />
+		<vehicle id="518" price="13500" malee="5" />
+		<vehicle id="585" price="14200" malee="5" />
+		<vehicle id="492" price="16200" malee="5" />
+		<vehicle id="445" price="17500" malee="5" />
+		<vehicle id="517" price="22000" malee="5" />
+		<vehicle id="496" price="24000" malee="5" />
+		<vehicle id="467" price="25300" malee="5" />
+		<vehicle id="527" price="27000" malee="5" />
+		<vehicle id="526" price="32000" malee="5" />
+		<vehicle id="566" price="33000" malee="5" />
+		<vehicle id="529" price="33200" malee="5" />
+		<vehicle id="491" price="35000" malee="5" />
+		<vehicle id="439" price="40500" malee="5" />
+		<vehicle id="475" price="44500" malee="5" />
+		<vehicle id="589" price="50000" malee="5" />
+		<vehicle id="405" price="53000" malee="5" />
+		<vehicle id="540" price="54000" malee="5" />
+		<vehicle id="580" price="60000" malee="5" />
+		<vehicle id="602" price="72000" malee="5" />
+		<vehicle id="536" price="78000" malee="5" />
+		<vehicle id="534" price="78000" malee="5" />
+		<vehicle id="576" price="78050" malee="5" />
+		<vehicle id="500" price="80500" malee="5" />
+		<vehicle id="412" price="82000" malee="5" />
+		<vehicle id="550" price="85000" malee="5" />
+		<vehicle id="442" price="87000" malee="5" />
+		<vehicle id="426" price="92000" malee="5" />
+		<vehicle id="567" price="105000" malee="5" />
+		<vehicle id="533" price="153000" malee="5" />
+		<vehicle id="480" price="160000" malee="5" />
+		<vehicle id="535" price="175000" malee="5" />
+		<vehicle id="545" price="200000" malee="5" />
+		<vehicle id="587" price="233000" malee="5" />
+		<vehicle id="565" price="250000" malee="5" />
+
+	</group>
+		<group id="Street Racers" type="CochesCaros">
+		<vehicle id="555" price="100000" malee="5" />
+		<vehicle id="429" price="250000" malee="5" />
+		<vehicle id="603" price="300000" malee="5" />
+		<vehicle id="558" price="450000" malee="5" />
+		<vehicle id="559" price="500000" malee="5" />
+		<vehicle id="477" price="650000" malee="5" />
+		<vehicle id="562" price="775000" malee="5" />
+		<vehicle id="506" price="800000" malee="5" />
+		<vehicle id="541" price="1000000" malee="5" />
+		<vehicle id="402" price="1200000" malee="5" />
+		<vehicle id="560" price="1400000" malee="5" />
+		<vehicle id="415" price="1700000" malee="5" />
+		<vehicle id="451" price="2700000" malee="5" />
+		<vehicle id="411" price="3200000" malee="5" />
+		<vehicle id="409" price="6000000" malee="5" />
+	</group>
+	<group id="Aircrafts" type="Plane">
+		<vehicle id="593" price="2500000" malee="8" />
+		<vehicle id="512" price="3000000" malee="8" />
+		<vehicle id="513" price="3500000" malee="8" />
+		<vehicle id="511" price="3700000" malee="8" />
+	    <vehicle id="469" price="4000000" malee="15" />
+		<vehicle id="487" price="8000000" malee="22" />
+	</group>
+	<group id="Boats" type="Boat">
+		<vehicle id="472" price="400000" malee="1" />
+		<vehicle id="473" price="100000" malee="1" />
+		<vehicle id="453" price="1000000" malee="2" />
+		<vehicle id="493" price="2000000" malee="5" />
+		<vehicle id="595" price="150000" malee="1" />
+		<vehicle id="454" price="1500000" malee="5" />
+	</group>	
+</vehicles>

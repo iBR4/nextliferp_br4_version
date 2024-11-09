@@ -1,0 +1,20 @@
+<ACL>
+	<acl name="Admin">
+		<right name="command.addPickup" access="true" />
+	</acl>
+	<acl name="Desarrollador">
+		<right name="command.addPickup" access="true" />
+	</acl>
+		<acl name="Administrador">
+		<right name="command.addPickup" access="true" />
+	</acl>
+	<acl name="SuperModerator">
+		<right name="command.addPickup" access="true" />
+	</acl>
+	<acl name="Moderator">
+		<right name="command.addPickup" access="false" />
+	</acl>
+	<acl name="Default">
+		<right name="command.addPickup" access="false" />
+	</acl>
+</ACL>

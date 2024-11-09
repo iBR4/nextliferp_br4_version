@@ -1,0 +1,8 @@
+<meta>
+	<info author="Bronimo" name="Sistema de multas" version="2.0" type="script" autostart="true"/>
+
+	<script src="multas_cliente.lua" type="client" cache="false"/>
+	<script src="multas_server.lua" type="server"/>
+
+	<oop>true</oop>
+</meta>

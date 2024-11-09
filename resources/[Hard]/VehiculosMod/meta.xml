@@ -1,0 +1,61 @@
+<meta>
+	<info author="Thomii" version="1.0.0" type="script" name="VehMods" description="" showInResourceBrowser="true" />
+
+	<script src="server.lua" type="server" />
+	<download_priority_group>1</download_priority_group>
+	<script src="client.lua" type="client" cache="false"/>
+
+	<file src="carros/copcarla.dff" />
+	<file src="carros/copcarla.txd" />
+
+	<file src="carros/copcarsf.dff" />
+	<file src="carros/copcarsf.txd" />
+	
+	<file src="carros/copcarvg.dff" />
+	<file src="carros/copcarvg.txd" />
+
+	<file src="carros/ls.dff" />
+	<file src="carros/ls.txd" />
+
+	
+	<file src="carros/fbitruck.dff" />
+	<file src="carros/fbitruck.txd" />
+	
+	<file src="carros/yosemiteFD.dff" />
+	<file src="carros/yosemiteFD.txd" />
+
+	---------------------------------------------------- skines PD
+
+	<file src="carros/245.dff" />
+	<file src="carros/245.txd" />
+	<file src="carros/283.dff" />
+	<file src="carros/283.txd" />
+	<file src="carros/288.dff" />
+	<file src="carros/288.txd" />
+	<file src="carros/190.dff" />
+	<file src="carros/190.txd" />
+	<file src="carros/298.dff" />
+	<file src="carros/298.txd" />
+	<file src="carros/266.dff" />
+	<file src="carros/266.txd" />
+	<file src="carros/267.dff" />
+	<file src="carros/267.txd" />
+	<file src="carros/211.dff" />
+	<file src="carros/211.txd" />
+	<file src="carros/248.dff" />
+	<file src="carros/248.txd" />
+	<file src="carros/254.dff" />
+	<file src="carros/254.txd" />
+	<file src="carros/100.dff" />
+	<file src="carros/100.txd" />
+	<file src="carros/247.dff" />
+	<file src="carros/247.txd" />
+	<file src="carros/73.dff" />
+	<file src="carros/73.txd" />
+
+
+
+
+
+
+</meta>

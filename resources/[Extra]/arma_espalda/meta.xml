@@ -1,0 +1,4 @@
+<meta>
+	<info author="Supe" name="armas en la Espalda" version="1.0" type="script" description="Scrit de armas" />
+	<script src="carmas.lua" type="client"/>
+</meta>

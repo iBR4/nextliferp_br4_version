@@ -1,0 +1,54 @@
+<vehiclesshops>
+    <carshop>
+        <carshopcol name="carshop jefferson" posX="2131.7060546875" posY="-1150.5327148438" posZ="23.5" spawnPX="2125" spawnPY="-1140" spawnPZ="25" spawnRZ="0" M1="CochesPobres">
+            <model name="602" posX="2135.5581054688" posY="-1128.1364746094" posZ="25.418907165527" rot="87.890106201172"/>
+            <model name="445" posX="2135.8005371094" posY="-1132.5583496094" posZ="25.371543884277" rot="92.887359619141"/>
+            <model name="518" posX="2136.1845703125" posY="-1137.4362792969" posZ="25.296072006226" rot="85.985443115234"/>
+            <model name="589" posX="2118.9223632813" posY="-1136.0532226563" posZ="24.873783111572" rot="269.66561889648"/>
+            <model name="546" posX="2118.8393554688" posY="-1140.0447998047" posZ="24.67974281311" rot="264.50885009766"/>
+            <model name="585" posX="2118.5397949219" posY="-1143.6025390625" posZ="24.438360214233" rot="264.57879638672"/>
+        </carshopcol>
+    </carshop>
+
+    <carshop>
+        <carshopcol name="car shop mulholland" posX="549.24053955078" posY="-1264.6383056641" posZ="17" spawnPX="563.79193115234" spawnPY="-1286.8446044922" spawnPZ="17.2421875" spawnRZ="90" M1="CochesCaros">
+            <!-- Puedes agregar modelos de automóviles para esta tienda aquí -->
+        </carshopcol>
+    </carshop>
+
+    <carshop>
+        <carshopcol name="BoatShop marina" posX="723.11" posY="-1494.55" posZ="1.93" spawnPX="724" spawnPY="-1506" spawnPZ="0" spawnRZ="180" M1="Boat">
+            <model name="493" posX="728.97222900391" posY="-1494.7192382813" posZ="-0.13556334376335" rot="186.27095031738"/>
+            <model name="446" posX="718.44647216797" posY="-1494.8961181641" posZ="-0.54176098108292" rot="172.91680908203"/>
+            <mag id ="1" />
+        </carshopcol>
+    </carshop>
+
+    <carshop>
+        <carshopcol name="los Santos International" posX="1897.4875488281" posY="-2345.3630371094" posZ="13.54" spawnPX="1886.6060791016" spawnPY="-2368.0302734375" spawnPZ="13.54" spawnRZ="-90" M1="Plane" />
+    </carshop>
+
+    <carshop>
+        <carshopcol name="Camionetas" posX="1097.763671875" posY="-1370.8673095703" posZ="14" spawnPX="1086.8059082031" spawnPY="-1381.05859375" spawnPZ="13.78125" spawnRZ="180" M1="CamionetasC" />
+    </carshop>
+
+    <carshop>
+        <carshopcol name="MontgomeryRaro" posX="1097.763671875" posY="-1370.8673095703" posZ="20" spawnPX="1408.9500732422" spawnPY="457.74942016602" spawnPZ="20" spawnRZ="160" M1="Mont" />
+    </carshop>
+
+    <carshop>
+        <carshopcol name="BikesScoots" posX="2475.7973632813" posY="-1750.6513671875" posZ="12.6" spawnPX="2480" spawnPY="-1745" spawnPZ="14" spawnRZ="0" M1="Bike">
+            <model name="462" posX="2476.4" posY="-1745.6513671875" posZ="13" rot="265"/>
+            <model name="586" posX="2476.4" posY="-1746.6513671875" posZ="13" rot="265"/>
+            <model name="581" posX="2476.4" posY="-1747.6513671875" posZ="13" rot="265"/>
+            <!-- camioneta -->
+            <model name="400" posX="1097.6306152344" posY="-1380.3929443359" posZ="13.787794113159" rot="182"/>
+            <model name="489" posX="1092.5767822266" posY="-1377.9381103516" posZ="13.78125" rot="182"/>
+        </carshopcol>
+    </carshop>
+</vehiclesshops>
+
+
+
+
+

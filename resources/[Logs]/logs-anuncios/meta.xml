@@ -1,0 +1,5 @@
+<meta>
+	<script src="anuncios.lua" type="server"/>
+	<export function="sendDiscordLogMessage"/>
+        <export function="localizedMessage"/> 
+</meta>

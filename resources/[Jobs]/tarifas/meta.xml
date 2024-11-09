@@ -1,0 +1,9 @@
+<meta>
+
+	<script src="taxi_c.lua" type="client"/>
+	<script src="taxi_s.lua" type="server"/>
+	
+	<file src="taximetro.png"/>
+	<file src="fuente.ttf"/>
+
+</meta>

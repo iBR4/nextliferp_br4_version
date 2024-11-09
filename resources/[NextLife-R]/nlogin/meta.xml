@@ -1,0 +1,60 @@
+<meta>
+
+	<info author="BR4" name="Next-Life/Login" version="1.5" cache="false" />
+
+	<oop>true</oop>
+
+	<file src="files/fonts/Prototype.ttf" />
+	<file src="files/fonts/chalet.ttf" />
+	<file src="files/fonts/icons.ttf" />
+	<file src="files/fonts/pricedown.ttf" />
+	<file src="files/fonts/perv.ttf" />
+
+	<file src="files/images/background.png"/>
+	<file src="files/images/background2.png"/>
+	<file src="files/images/background3.png"/>
+	<file src="files/images/light.png"/>
+	<file src="files/images/mouse.png"/>
+	<file src="files/images/correo.png"/>
+	<file src="files/images/logo_next_lfie_tebex.png"/>
+	<file src="files/images/Next_life_foro_web.png"/>
+
+	<file src="files/sounds/intro.mp3"/>
+	<file src="files/sounds/back.wav"/>
+	<file src="files/sounds/enter.mp3"/>
+	<file src="files/sounds/navigate.mp3"/>
+	<file src="files/sounds/money.wav"/>
+	<file src="files/sounds/notification.mp3"/>
+
+	<file src="files/models/PenthouseLS.txd"/>
+	<file src="files/models/PenthouseLS.col"/>
+	<file src="files/models/PenthouseLS.dff"/>
+
+	<!-- Configs/Sistemas-->
+
+	<script src="files/testRoleplay.lua" type="client" cache="false" />
+	<script src="files/testRoleplay_server.lua" type="server" />
+
+
+	<script src="shared.lua" type="shared" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" />
+	<script src="guardarDatos.lua" type="server" />
+
+	<script src="files/gestorRoleplayC.lua" type="client" cache="false" />
+	<script src="files/gestorRoleplayS.lua" type="server" />
+
+	<!-- Exports-->
+
+	<export function="getStateLogin" type="client" />
+	<export function="getCharacterData" type="server" />
+	<export function="setCharacterData" type="server" />
+
+	<include resource="newmodels" />
+	<include resource="VehPriv" />
+	<include resource="Armas" />
+
+	<!-- <export function="dxDrawRectangleBorde" type="client" /> -->
+
+</meta>
+

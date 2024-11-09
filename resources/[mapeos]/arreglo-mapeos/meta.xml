@@ -1,0 +1,10 @@
+<meta>
+<info author="Flatliner_" description="[Map Fix]Burning Desire House - Los Santos | Normal and Destroyed" type="misc" version="1.0"/>
+
+
+<map src="BurningDesire_Normal.map" /> 
+<!-- <map src="BurningDesire_Destroyed.map" /> -->
+
+<!-- <script src="BurningDesire_Normal.lua"/> -->
+<!-- <script src="BurningDesire_Destroyed.lua" /> -->
+</meta>

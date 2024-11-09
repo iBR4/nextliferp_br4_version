@@ -1,0 +1,5 @@
+<map>
+    <object id="object (BREAK_WALL_1A)" interior="5" model="3064" dimension="0" posX="2338.1162" posY="-1181.923" posZ="1033.187" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (BREAK_WALL_2A)" interior="5" model="2950" dimension="0" posX="2330.3926" posY="-1179.16" posZ="1030.547" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (BREAK_WALL_3A)" interior="5" model="3063" dimension="0" posX="2340.281" posY="-1182.293" posZ="1026.9685" rotX="0" rotY="0" rotZ="90"></object>
+</map>

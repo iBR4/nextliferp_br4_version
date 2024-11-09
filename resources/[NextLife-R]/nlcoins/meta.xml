@@ -1,0 +1,16 @@
+<meta>
+	<info author="BR4/UnitedTR" version="1.0.2" name="Configuracion-NL" type="RP" />
+
+	<oop>true</oop>
+
+	<script src="shared.lua" type="shared" cache="false" />
+
+    <script src="MCoins_C.lua" type="client" cache="false" />
+	<script src="MCoins_s.lua" type="server" />
+
+	<file src="files/cambioNombrenextlife.png" />
+	<file src="files/Next_life_logo.png" />
+	<file src="files/nextcoincolor.png" />
+	<file src="files/nextcoinspsd.png" />
+	<file src="files/CollegeSans.ttf" />
+</meta>

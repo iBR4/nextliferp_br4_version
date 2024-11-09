@@ -1,0 +1,184 @@
+<meta>
+	<info author="Thomii" name="Gamemode" type="script" gamemodes="Roleplay" version="1.0" autostart="true"/>
+	
+	<script src="hud/hud.lua" type="client" cache="false"/>
+	<script src="gamemode.lua" type="server" cache="false"/>
+	<script src="save.lua" type="server" cache="false"/>
+	<script src="comandos.lua" type="server" cache="false"/>
+	
+	<file src="fonts/hint-title.ttf"/>	
+    <file src="fonts/hint-text.ttf"/>
+	
+		<!--Chats-->
+	<script src="chats/anti_ip.lua" type="server"/>
+	<script src="chats/chat_principal.lua" type="server"/>
+	<script src="chats/chat_administrativo.lua" type="server"/>
+	<script src="chats/chat_do.lua" type="server"/>
+	<script src="chats/chat_ooc.lua" type="server"/>
+	<script src="chats/chat_grito.lua" type="server"/>
+	<script src="chats/describir_personaje.lua" type="server"/>
+	<script src="dni.lua" type="server"/>
+	<script src="peds_and_yo/peds_cliente.lua" type="client" cache="false"/>
+	<script src="peds_and_yo/pickups_info.lua" type="client" cache="false"/>
+	<script src="sacar_identificacion.lua" type="server"/>
+	
+	<script src="commands/duda_pm_utils.lua" type="server"/>
+	<script src="darlicencia.lua" type="server"/>
+	
+	<file src="pm.mp3"/>
+	
+	<script src="datos.lua" type="server"/>
+	
+	<script src="telefono.lua" type="server"/>
+	<script src="anims_server.lua" type="server"/>
+	<export function="getFromName" type="server"/>
+	
+	<export function="addHudPlayer" type="server"/>
+	
+	<export function="message_admins" type="server"/>
+	
+	<export function="chatEtorno" type="server"/>
+	
+	<oop>true</oop>
+	<file src="hud/Certege.ttf" />
+   <file src="img/star.png" />
+    <file src="img/0.png" />
+    <file src="img/1.png" />  
+    <file src="img/2.png" />
+    <file src="img/3.png" />
+    <file src="img/4.png" />
+    <file src="img/5.png" />
+    <file src="img/6.png" />
+    <file src="img/7.png" />
+    <file src="img/8.png" />
+    <file src="img/9.png" />
+    <file src="img/10.png" />
+    <file src="img/11.png" />
+    <file src="img/12.png" />
+    <file src="img/14.png" />
+    <file src="img/15.png" />
+    <file src="img/16.png" />
+    <file src="img/17.png" />
+    <file src="img/18.png" />
+    <file src="img/22.png" />
+    <file src="img/23.png" />
+    <file src="img/24.png" />
+    <file src="img/25.png" />
+    <file src="img/26.png" />
+    <file src="img/27.png" />
+    <file src="img/28.png" />
+    <file src="img/29.png" />
+    <file src="img/30.png" />
+    <file src="img/31.png" />
+    <file src="img/32.png" />
+    <file src="img/33.png" />
+    <file src="img/34.png" />
+    <file src="img/35.png" />
+    <file src="img/36.png" />
+    <file src="img/37.png" />
+    <file src="img/38.png" />
+    <file src="img/39.png" />
+    <file src="img/40.png" />
+    <file src="img/41.png" />
+    <file src="img/42.png" />
+    <file src="img/43.png" />
+    <file src="img/44.png" />
+    <file src="img/45.png" />
+    <file src="img/46.png" />
+	
+	<file src="imgpd/0.png" />
+    <file src="imgpd/1.png" />  
+    <file src="imgpd/2.png" />
+    <file src="imgpd/3.png" />
+    <file src="imgpd/4.png" />
+    <file src="imgpd/5.png" />
+    <file src="imgpd/6.png" />
+    <file src="imgpd/7.png" />
+    <file src="imgpd/8.png" />
+    <file src="imgpd/9.png" />
+    <file src="imgpd/10.png" />
+    <file src="imgpd/11.png" />
+    <file src="imgpd/12.png" />
+    <file src="imgpd/14.png" />
+    <file src="imgpd/15.png" />
+    <file src="imgpd/16.png" />
+    <file src="imgpd/17.png" />
+    <file src="imgpd/18.png" />
+    <file src="imgpd/22.png" />
+    <file src="imgpd/23.png" />
+    <file src="imgpd/24.png" />
+    <file src="imgpd/25.png" />
+    <file src="imgpd/26.png" />
+    <file src="imgpd/27.png" />
+    <file src="imgpd/28.png" />
+    <file src="imgpd/29.png" />
+    <file src="imgpd/30.png" />
+    <file src="imgpd/31.png" />
+    <file src="imgpd/32.png" />
+    <file src="imgpd/33.png" />
+    <file src="imgpd/34.png" />
+    <file src="imgpd/35.png" />
+    <file src="imgpd/36.png" />
+    <file src="imgpd/37.png" />
+    <file src="imgpd/38.png" />
+    <file src="imgpd/39.png" />
+    <file src="imgpd/40.png" />
+    <file src="imgpd/41.png" />
+    <file src="imgpd/42.png" />
+    <file src="imgpd/43.png" />
+    <file src="imgpd/44.png" />
+    <file src="imgpd/45.png" />
+    <file src="imgpd/46.png" />
+	
+	<file src="imgfd/0.png" />
+    <file src="imgfd/1.png" />  
+    <file src="imgfd/2.png" />
+    <file src="imgfd/3.png" />
+    <file src="imgfd/4.png" />
+    <file src="imgfd/5.png" />
+    <file src="imgfd/6.png" />
+    <file src="imgfd/7.png" />
+    <file src="imgfd/8.png" />
+    <file src="imgfd/9.png" />
+    <file src="imgfd/10.png" />
+    <file src="imgfd/11.png" />
+    <file src="imgfd/12.png" />
+    <file src="imgfd/14.png" />
+    <file src="imgfd/15.png" />
+    <file src="imgfd/16.png" />
+    <file src="imgfd/17.png" />
+    <file src="imgfd/18.png" />
+    <file src="imgfd/22.png" />
+    <file src="imgfd/23.png" />
+    <file src="imgfd/24.png" />
+    <file src="imgfd/25.png" />
+    <file src="imgfd/26.png" />
+    <file src="imgfd/27.png" />
+    <file src="imgfd/28.png" />
+    <file src="imgfd/29.png" />
+    <file src="imgfd/30.png" />
+    <file src="imgfd/31.png" />
+    <file src="imgfd/32.png" />
+    <file src="imgfd/33.png" />
+    <file src="imgfd/34.png" />
+    <file src="imgfd/35.png" />
+    <file src="imgfd/36.png" />
+    <file src="imgfd/37.png" />
+    <file src="imgfd/38.png" />
+    <file src="imgfd/39.png" />
+    <file src="imgfd/40.png" />
+    <file src="imgfd/41.png" />
+    <file src="imgfd/42.png" />
+    <file src="imgfd/43.png" />
+    <file src="imgfd/44.png" />
+    <file src="imgfd/45.png" />
+    <file src="imgfd/46.png" />
+	
+	<file src="reporte.ogg" />
+	<file src="duda.ogg" />
+	
+	
+	<script src="binds_c.lua" type="client" cache="false"/>
+	
+	
+</meta>
