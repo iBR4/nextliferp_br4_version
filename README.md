@@ -36,6 +36,6 @@ Unless otherwise specified, all source code hosted in this repository is license
 
 > Puedes obtenerla aquí: https://github.com/iBR4/nextliferp_test
 
-# Comunidad
+# Comunidad Personal
 
 > Discord: https://discord.gg/UKVMJnF76J
