@@ -92,7 +92,7 @@ function staff_estado ( source )
 			source:setName(source:getData("NAME") or getPlayerName(source))
 			exports["Logs-Joinquit"]:sendDiscordLogMessage("["..rango.." ``"..nick.."``] Salio de servicio como staff", source)
 		else
-			if getElementData(source,"Nombre:staff") then
+			--if getElementData(source,"Nombre:staff") then
 			source:setData("Admin:Disponible", true)
 			source:outputChat("#44A5CA[STAFF] #9CFF97Te pusiste en modo staff", 255, 255, 255, true)
 			source:setData("NAME",source:getName())
@@ -100,9 +100,9 @@ function staff_estado ( source )
 			source:setTeam(Team.getFromName("Staff"))			
 			source:setName(source:getData("Nombre:staff") or getPlayerName(source))
 			exports["Logs-Joinquit"]:sendDiscordLogMessage("["..rango.." ``"..nick.."``] Entro en Servicio como staff")
-		else
-			source:outputChat("#44A5CA[STAFF] #9CFF97Necesitas colocarte un nombre como staff, utiliza /nombrestaff", 255, 255, 255, true)
-			end
+		--else
+			--source:outputChat("#44A5CA[STAFF] #9CFF97Necesitas colocarte un nombre como staff, utiliza /nombrestaff", 255, 255, 255, true)
+			--end
 		end
 	end
 end
